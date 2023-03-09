@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la; cd ..; echo "Files in parent directory:"; ls -la ../; echo "Files in /boot directory:"; ls -la /boot
+ls -la . 0x00-shell_basics  ../ /boot
